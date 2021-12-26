@@ -1,2 +1,2 @@
 # windows_automation
-Windows Automation
+Windows Automation for Windows based applications using Pywinauto
